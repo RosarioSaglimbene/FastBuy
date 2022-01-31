@@ -33,3 +33,4 @@ INSERT INTO prodotti (cod, categoria, nome, prezzo, quantita) VALUES ("qsdnflenj
 INSERT INTO prodotti (cod, categoria, nome, prezzo, quantita) VALUES ("3iykwybsnf", "giardinaggio", "motosega", 169.00, 26);
 INSERT INTO prodotti (cod, categoria, nome, prezzo, quantita) VALUES ("ysjnmgdnah", "giardinaggio", "cesoie", 30.00, 40);
 INSERT INTO prodotti (cod, categoria, nome, prezzo, quantita) VALUES ("v4m8oybsna", "giardinaggio", "soffia foglie", 19.00, 25);
+INSERT INTO prodotti (cod, categoria, nome, prezzo, quantita) VALUES ("q1mdpqucga", "scarpe", "nike", 69.00, 15);
