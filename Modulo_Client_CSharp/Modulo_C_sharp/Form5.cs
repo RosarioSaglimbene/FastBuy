@@ -195,6 +195,7 @@ namespace Modulo_C_sharp
             TabCarrello.Controls.Clear();
             prodottiCarrello.Clear();
             prezzoFinale = 0;
+            B_CompletaOrdine.Hide();
             this.PrezzoFinaleLabel.Text = "Il prezzo finale é: " + prezzoFinale.ToString();
             this.Hide();
         }

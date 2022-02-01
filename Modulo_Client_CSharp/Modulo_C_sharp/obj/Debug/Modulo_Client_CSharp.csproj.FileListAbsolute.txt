@@ -1,0 +1,17 @@
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\bin\Debug\Modulo_C_sharp.exe.config
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\bin\Debug\Modulo_C_sharp.exe
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\bin\Debug\Modulo_C_sharp.pdb
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\obj\Debug\Modulo_Client_CSharp.csproj.AssemblyReference.cache
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.FormAccedi.resources
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.FormRegistrazione.resources
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.FormInserimentoProd.resources
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.FormSceltaCategoria.resources
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.FormVisualizzazioneCarrello.resources
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.FormVisualizzazioneOrdini.resources
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.FormVisualizzazioneProdottiOrdine.resources
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.FormTracciamentoOrdine.resources
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.Properties.Resources.resources
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\obj\Debug\Modulo_Client_CSharp.csproj.GenerateResource.cache
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\obj\Debug\Modulo_Client_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.exe
+C:\Users\Rosario\Documents\FastBuy\Modulo_Client_CSharp\Modulo_C_sharp\obj\Debug\Modulo_C_sharp.pdb
