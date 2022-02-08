@@ -55,12 +55,12 @@ class ThreadVisualizzaProdotti(threading.Thread):
             prezzo = result[3]
             quantita = result[4]
             prezzo_final = result[5]
-            info_prodotto = str(cod_prodotto) + "$" + str(categoria) + "$" + str(nome) + "$" + str(prezzo) + "$" + str(quantita)
+            info_prodotto = "$".join([str(cod_prodotto), str(categoria), str(nome), str(prezzo), str(quantita)])
 
             lista_info_prodotti.append(info_prodotto)
 
 
-          lista_info_prodotti.insert(0, str(dim_lista) + "$" + str(prezzo_final))
+          lista_info_prodotti.insert(0, "$".join([str(dim_lista), str(prezzo_final)]))
 
           # Stampa per la corretta formattazione di ciò che deve essere ritornato al Client C#
           # for info_prodotto in lista_info_prodotti:

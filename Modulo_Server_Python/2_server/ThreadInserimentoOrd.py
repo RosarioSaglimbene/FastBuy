@@ -80,7 +80,7 @@ class ThreadInserimentoOrd (threading.Thread):
           for p in lista_tracciamento:
               x = p.x
               y = p.y
-              pt = str(x) + "-" + str(y)
+              pt = "-".join([str(x), str(y)])
               lis.append(pt)
 
           pt1 = lis[0]

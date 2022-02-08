@@ -47,7 +47,7 @@ class ThreadVisualizzaOrdini(threading.Thread):
             dim_lista += 1
             cod_ordine = result[0]
             prezzo_finale = result[1]
-            info_ordine = str(cod_ordine) + "$" + str(prezzo_finale)
+            info_ordine = "$".join([str(cod_ordine), str(prezzo_finale)])
 
             lista_info_ordini.append(info_ordine)
 
