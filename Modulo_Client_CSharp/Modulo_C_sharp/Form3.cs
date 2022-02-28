@@ -102,13 +102,29 @@ namespace Modulo_C_sharp
         private void PrezzoText_TextChanged(object sender, EventArgs e)
         {
             string d = PrezzoText.Text;
-            prezzo = float.Parse(d);
+            try
+            {
+                prezzo = float.Parse(d);
+            }
+            catch(FormatException)
+            {
+                PrezzoText.Clear();
+                MessageBox.Show("Inserimento erroneo");
+            }
         }
 
         private void QuantitaText_TextChanged(object sender, EventArgs e)
         {
             string f = QuantitaText.Text;
-            quantita = int.Parse(f);
+            try
+            {
+                quantita = int.Parse(f);
+            }
+            catch (FormatException)
+            {
+                QuantitaText.Clear();
+                MessageBox.Show("Inserimento erroneo");
+            }
         }
 
         private void FormInserimentoProd_Closed(object sender, EventArgs e)
